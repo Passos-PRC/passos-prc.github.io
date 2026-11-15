@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://passos-prc.github.io/sitemap.xml
